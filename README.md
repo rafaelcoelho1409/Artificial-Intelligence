@@ -7,8 +7,8 @@ API do Kaggle usada dentro do Google Colab (prashant268/chest-xray-covid19-pneum
 https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
 
 ## Bibliotecas do Python usadas
--numpy
--matplotlib.pyplot
--os
--tensorflow
--tensorflow.keras
+- numpy
+- matplotlib.pyplot
+- os
+- tensorflow
+- tensorflow.keras
