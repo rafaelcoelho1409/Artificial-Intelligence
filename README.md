@@ -3,7 +3,10 @@ Modelo de Deep Learning usando um conjunto de 400 amostras de treino, e 100 amos
 ![Screenshot](Screenshot_254.png)
 
 ## Fonte de dados
-API do Kaggle usada dentro do Google Colab (prashant268/chest-xray-covid19-pneumonia)
+API do Kaggle usada dentro do Google Colab 
+
+(prashant268/chest-xray-covid19-pneumonia)
+
 https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
 
 ## Bibliotecas do Python usadas
